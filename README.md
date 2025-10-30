@@ -34,7 +34,15 @@ Each week focuses on a different topic, and the content is designed to be hands-
 
 ### Week 4 – Machine Learning in Astronomy  
 *Introduction to machine learning concepts, classification, regression, and simple neural networks.*  
-[TBD]
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Niusha951/Astronomy_Python_Course/blob/master/Week4_ML_in_Astronomy/IntroductiontoML.ipynb) (Intro to ML)
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Niusha951/Astronomy_Python_Course/blob/master/Week4_ML_in_Astronomy/IntroductionToUnsupervisedLearning.ipynb) (Intro to Unsupervised Learning)
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Niusha951/Astronomy_Python_Course/blob/master/Week4_ML_in_Astronomy/ConvolutionalNeuralNetworks.ipynb) (Convolutional Neural Networks)
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Niusha951/Astronomy_Python_Course/blob/master/Week4_ML_in_Astronomy/GraphNeuralNetworks.ipynb) (Graph Neural Networks)
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Niusha951/Astronomy_Python_Course/blob/master/Week4_ML_in_Astronomy/BuildingPerceptronForClassification.ipynb) (Building a Perceptron for Classification)
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Niusha951/Astronomy_Python_Course/blob/master/Week4_ML_in_Astronomy/API_Intro_colab.ipynb)(Intro to API/Bonus)
 
@@ -76,5 +84,13 @@ We gratefully acknowledge the use of publicly available data and tools that supp
 
 - **Week 2 – Data Visualization:**  
   The galaxy sample used in the visualization exercises is based on data from the [Local Volume Database (LVDB)](https://github.com/apace7/local_volume_database/tree/main) compiled by [Andrew Pace](https://apace7.github.io).  
+
+- **Week 4 – Machine Learning in Astronomy:**
+Some of the materials used in Week 4 workshop series are adapted from existing tutorials developed by other educators and researchers. We gratefully acknowledge their contributions:
+* AA Miller (Northwestern/CIERA) — Original notebooks dated 07 September 2023 and 11 September 2023.
+* John F. Wu  
+  [jwuphysics.github.io](https://jwuphysics.github.io/) — Original notebook authored for Session 19 of the [LSSTC Data Science Fellowship Program](https://www.lsstcorporation.org/lincc/fellowship_program).
+
+All original credit for the base content belongs to the authors above.
 
 - We thank the UVA Department of Astronomy for hosting the workshop series.
