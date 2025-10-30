@@ -86,11 +86,11 @@ We gratefully acknowledge the use of publicly available data and tools that supp
   The galaxy sample used in the visualization exercises is based on data from the [Local Volume Database (LVDB)](https://github.com/apace7/local_volume_database/tree/main) compiled by [Andrew Pace](https://apace7.github.io).  
 
 - **Week 4 – Machine Learning in Astronomy:**
-Some of the materials used in Week 4 workshop series are adapted from existing tutorials developed by other educators and researchers. We gratefully acknowledge their contributions:
-* AA Miller (Northwestern/CIERA) — Original notebooks dated 07 September 2023 and 11 September 2023.
-* John F. Wu  
+  Some of the materials used in Week 4 workshop series are adapted from existing tutorials developed by other educators and researchers. We gratefully acknowledge their contributions:
+  * AA Miller (Northwestern/CIERA) — Original notebooks dated 07 September 2023 and 11 September 2023.
+  * John F. Wu  
   [jwuphysics.github.io](https://jwuphysics.github.io/) — Original notebook authored for Session 19 of the [LSSTC Data Science Fellowship Program](https://www.lsstcorporation.org/lincc/fellowship_program).
 
-All original credit for the base content belongs to the authors above.
+  All original credit for the base content belongs to the authors above.
 
 - We thank the UVA Department of Astronomy for hosting the workshop series.
