@@ -88,8 +88,7 @@ We gratefully acknowledge the use of publicly available data and tools that supp
 - **Week 4 – Machine Learning in Astronomy:**
   Some of the materials used in Week 4 workshop series are adapted from existing tutorials developed by other educators and researchers. We gratefully acknowledge their contributions:
   * AA Miller (Northwestern/CIERA) — Original notebooks dated 07 September 2023 and 11 September 2023.
-  * John F. Wu  
-  [jwuphysics.github.io](https://jwuphysics.github.io/) — Original notebook authored for Session 19 of the [LSSTC Data Science Fellowship Program](https://www.lsstcorporation.org/lincc/fellowship_program).
+  * [John F. Wu](https://jwuphysics.github.io/) — Original notebook authored for Session 19 of the [LSSTC Data Science Fellowship Program](https://www.lsstcorporation.org/lincc/fellowship_program).
 
   All original credit for the base content belongs to the authors above.
 
