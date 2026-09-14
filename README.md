@@ -35,20 +35,27 @@ Each week focuses on a different topic, and the content is designed to be hands-
 [Download the Gaussian Mixture Models Slides](Week3_Data_Analysis/GMM_GC_members_classNotes.pptx)
 
 ---
-
 ### Week 4 – Machine Learning in Astronomy  
+*Introduction to machine learning concepts, classification and decision trees.*
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Niusha951/Astronomy_Python_Course/blob/master/Week4_ML_Intro/ML_intro.ipynb) (Intro/supervised classification)
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Niusha951/Astronomy_Python_Course/blob/master/Week4_ML_Intro/ML_exoplanets.ipynb) (Intro/evaluating classification models)
+
+---
+### Week 5 – Machine Learning in Astronomy  
 *Introduction to machine learning concepts, classification, regression, and simple neural networks.*  
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Niusha951/Astronomy_Python_Course/blob/master/Week4_ML_in_Astronomy/IntroductiontoML.ipynb) (Intro to ML)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Niusha951/Astronomy_Python_Course/blob/master/Week5_ML_in_Astronomy/IntroductiontoML.ipynb) (Intro to ML)
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Niusha951/Astronomy_Python_Course/blob/master/Week4_ML_in_Astronomy/IntroductionToUnsupervisedLearning.ipynb) (Intro to Unsupervised Learning)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Niusha951/Astronomy_Python_Course/blob/master/Week5_ML_in_Astronomy/IntroductionToUnsupervisedLearning.ipynb) (Intro to Unsupervised Learning)
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Niusha951/Astronomy_Python_Course/blob/master/Week4_ML_in_Astronomy/ConvolutionalNeuralNetworks.ipynb) (Convolutional Neural Networks)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Niusha951/Astronomy_Python_Course/blob/master/Week5_ML_in_Astronomy/ConvolutionalNeuralNetworks.ipynb) (Convolutional Neural Networks)
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Niusha951/Astronomy_Python_Course/blob/master/Week4_ML_in_Astronomy/GraphNeuralNetworks.ipynb) (Graph Neural Networks)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Niusha951/Astronomy_Python_Course/blob/master/Week5_ML_in_Astronomy/GraphNeuralNetworks.ipynb) (Graph Neural Networks)
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Niusha951/Astronomy_Python_Course/blob/master/Week4_ML_in_Astronomy/BuildingPerceptronsForClassification.ipynb) (Building a Perceptron for Classification)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Niusha951/Astronomy_Python_Course/blob/master/Week5_ML_in_Astronomy/BuildingPerceptronsForClassification.ipynb) (Building a Perceptron for Classification)
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Niusha951/Astronomy_Python_Course/blob/master/Week4_ML_in_Astronomy/API_Intro_colab.ipynb)(Intro to API/Bonus)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Niusha951/Astronomy_Python_Course/blob/master/Week5_ML_in_Astronomy/API_Intro_colab.ipynb)(Intro to API/Bonus)
 
 ---
 
