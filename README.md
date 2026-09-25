@@ -55,6 +55,8 @@ Each week focuses on a different topic, and the content is designed to be hands-
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Niusha951/Astronomy_Python_Course/blob/master/Week5_ML_in_Astronomy/BuildingPerceptronsForClassification.ipynb) (Building a Perceptron for Classification)
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Niusha951/Astronomy_Python_Course/blob/master/Week5_ML_in_Astronomy/PerceptronDigit8_Solution.ipynb) (Building a Perceptron)
+
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Niusha951/Astronomy_Python_Course/blob/master/Week5_ML_in_Astronomy/API_Intro_colab.ipynb)(Intro to API/Bonus)
 
 ---
